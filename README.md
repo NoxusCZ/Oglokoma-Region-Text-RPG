@@ -1,4 +1,4 @@
-# ⚔️ Oglokoma Chronicles: Text RPG
+# ⚔️ Oglokoma Region: Text RPG
 
 ![Stav Projektu](https://img.shields.io/badge/Stav_Projektu-Ve_Vývoji_(WIP)-yellow?style=for-the-badge)
 ![Verze](https://img.shields.io/badge/Verze-0.3.0_Pre--Alpha-green?style=for-the-badge)
