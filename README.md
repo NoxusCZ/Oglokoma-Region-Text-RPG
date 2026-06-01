@@ -1,7 +1,7 @@
 # ⚔️ Oglokoma Chronicles: Text RPG
 
 ![Stav Projektu](https://img.shields.io/badge/Stav_Projektu-Ve_Vývoji_(WIP)-yellow?style=for-the-badge)
-![Verze](https://img.shields.io/badge/Verze-0.1.0_Pre--Alpha-green?style=for-the-badge)
+![Verze](https://img.shields.io/badge/Verze-0.3.0_Pre--Alpha-green?style=for-the-badge)
 ![Licence](https://img.shields.io/badge/Licence-MIT-blue?style=for-the-badge)
 ![Jazyk](https://img.shields.io/badge/Jazyk-C%2B%2B%2011-orange?style=for-the-badge)
 
