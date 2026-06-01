@@ -1,8 +1,13 @@
 # ⚔️ Oglokoma Chronicles: Text RPG
 
+![Stav Projektu](https://img.shields.io/badge/Stav_Projektu-Ve_Vývoji_(WIP)-yellow?style=for-the-badge)
+![Verze](https://img.shields.io/badge/Verze-0.1.0_Pre--Alpha-green?style=for-the-badge)
+![Licence](https://img.shields.io/badge/Licence-MIT-blue?style=for-the-badge)
+![Jazyk](https://img.shields.io/badge/Jazyk-C%2B%2B%2011-orange?style=for-the-badge)
+
 Vítej, dobrodruhu! Vstupuješ do světa drsného středověku, kde o tvém osudu rozhodují jen tvá vlastní rozhodnutí, ostrost tvého meče a množství zlaťáků v kapse. **Oglokoma Chronicles** je textové RPG, které tě vrátí ke kořenům klasických her na hrdiny.
 
-> 🔨 **Stavba světa v plném proudu:** Vesnice Oglokoma už stojí a kováři žhaví pece, ale místní dungeony se teprve plní monstry. Hra je momentálně ve fázi vývoje (Work in Progress)!
+> 🔨 **Stavba světa v plném proudu:** Vesnice Oglokoma už stojí a kováři žhaví pece, ale místní dungeony se teprve plní monstry. Detaily o tom, co se chystá, najdeš v sekci [Roadmapa](#-co-tě-čeká-v-budoucích-updatech).
 
 ---
 
@@ -20,7 +25,7 @@ Hned na začátku se musíš rozhodnout, kým v tomto světě budeš. Každá ro
 
 ## 🏡 Bezpečí vesnice Oglokoma
 
-Tvým útočištěm je vesnice Oglokoma. Pokud máš dostatek zkušeností (XP) a zlata z úspěšných výprav, místní řemeslníci tě rádi uvidí:
+Tvým útočištěm je [vesnice Oglokoma](#). Pokud máš dostatek zkušeností (XP) a zlata z úspěšných výprav, místní řemeslníci tě rádi uvidí:
 * **U kováře** si můžeš nechat vykovat lepší pláty na brnění nebo nabrousit meč pro větší poškození.
 * **U tajemného oltáře** můžeš investovat do své mysli a naučit se až 5 mocných kouzel.
 
@@ -44,8 +49,11 @@ Hra si potrpí na hrdiny. Pokud hned na úvodní obrazovce odmítneš výzvu k d
 
 ## 🚀 Jak hru spustit
 
-Máš odvahu? Zkompiluj hru pomocí jakéhokoli C++ kompilátoru (např. G++) a naskoč do příběhu:
+Máš odvahu? Zkompiluj hru pomocí jakéhokoli C++ kompilátoru a naskoč do příběhu:
 
 ```bash
+# Zkompilování hry
 g++ -std=c++11 main.cpp -o hra
+
+# Spuštění dobrodružství
 ./hra
