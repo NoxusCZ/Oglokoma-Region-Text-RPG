@@ -7,7 +7,7 @@
 
 Vítej, dobrodruhu! Vstupuješ do světa drsného středověku, kde o tvém osudu rozhodují jen tvá vlastní rozhodnutí, ostrost tvého meče a množství zlaťáků v kapse. **Oglokoma Region** je textové RPG, které tě vrátí ke kořenům klasických her na hrdiny.
 
-> 🔨 **Stavba světa v plném proudu:** Vesnice Oglokoma už stojí a kováři žhaví pece. Dungeony jsou otevřené a plné monster — od obyčejných Zombie až po bosse Coinclinga. Detaily o tom, co se chystá, najdeš v sekci [Roadmapa](#-co-tě-čeká-v-budoucích-updatech).
+> 🔨 **Stavba světa v plném proudu:** Vesnice Oglokoma už stojí a kováři žhaví pece. Dungeony jsou otevřené a plné monster — od obyčejných Zombie až po bosse Coinclinga.
 
 ---
 
